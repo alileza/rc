@@ -1,1 +1,5 @@
 recordings*
+rc
+transcript*
+.DS_Store
+.env
